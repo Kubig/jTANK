@@ -1,0 +1,30 @@
+# Maven
+log/
+target/
+
+# Gradle
+.idea/**/gradle.xml
+.idea/**/libraries
+
+# Intellij
+out/
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.lnk
+
